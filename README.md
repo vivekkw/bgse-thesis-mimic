@@ -22,6 +22,6 @@ Following these steps, provided that the required access rights are given, you s
 
     *Please note: This step requires that the files generated in step 1) and 2) are in the same directory*
 
-5) Run the `main_v7.ipynb` notebook to see the results for the **multi-task prediction model** (ABM)
+5) Run the `main_code.ipynb` notebook to see the results for the **multi-task prediction model** (ABM)
    
    *Please note: Towards the end of the notebook is the code for the ABM BatchRunner. Running those bits of the code is computationally expensive. Expected runtime for creating the ABM output files will be approx. (3x16hours)*
