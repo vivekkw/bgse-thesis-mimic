@@ -41,7 +41,7 @@ cloudpickle==1.2.2
 colorama==0.4.1
 contextlib2==0.6.0
 cookiecutter==1.7.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.13
