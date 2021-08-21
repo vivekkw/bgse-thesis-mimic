@@ -1,7 +1,7 @@
 # bgse-thesis-mimic
 Master Thesis on ICU data from the MIMIC-III Dataset
 
-Following these steps, provided that the required access rights are given, you should be able to repoduce our results:
+Following these steps, provided that the required access rights are given, you should be able to reproduce our results:
 
 1) Run `Query_from_Cloud.R` file 
 
