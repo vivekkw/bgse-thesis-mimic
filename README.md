@@ -1,7 +1,15 @@
-# bgse-thesis-mimic
-Master Thesis on ICU data from the MIMIC-III Dataset
+# Master Thesis on ICU data from the MIMIC-III Dataset
+By I Vivek Kai-wen and Kevan Amini
 
-Following these steps, provided that the required access rights are given, you should be able to reproduce our results:
+This project makes use of ICU data from the MIMIC-III Dataset to build 2 models. 
+
+First, we built an end-of-day mortality prediction model for ICU patients. Mortality is notoriously difficult to predict for ICU patients due to the unstable health situation that they are in. Nonetheless, using some engineered features such as comorbidities and severity scores, we achieved high levels of precision and sensitivity. 
+
+Next, we built an agent-based model that enables better planning of resources by the hospital management. This complex agent-based model was built on many smaller submodels, including a model to generate new patients with realistic health data and the previous mortality prediction model. 
+
+The slides used for the presentation of our findings is entitled `MA_Final_Presentation_V01.pptx.pdf`.
+
+Following these steps, provided that the required access rights are given, you will be able to reproduce our results:
 
 1) Run `Query_from_Cloud.R` file 
 
