@@ -57,7 +57,7 @@ dataset==1.1.2
 decorator==4.4.1
 defusedxml==0.6.0
 dill==0.3.1.1
-distributed==2.6.0
+distributed==2021.10.0
 docutils==0.15.2
 emcee==2.2.1
 emukit==0.4.7
