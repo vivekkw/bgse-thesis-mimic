@@ -138,7 +138,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.1
 mccabe==0.6.1
 Mesa==0.8.6
-mistune==0.8.4
+mistune==2.0.3
 mlens==0.2.3
 mock==3.0.5
 more-itertools==7.2.0
